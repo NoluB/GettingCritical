@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<link rel= "stylesheet" type="text/css" href="maintask1.css">
+</head>
+
+<body>
+<div class= "boxred"></div>
+<div class= "boxgreen"></div>
+</body>
+
+</html>
+
