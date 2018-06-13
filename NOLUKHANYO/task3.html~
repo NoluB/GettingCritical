@@ -9,6 +9,8 @@
 <button id= "green">green</button>
 <div id="box2"></div>
 <button id= "red">red</button>
+
 <script src="task3.js"></script>
+
 </body>
 </html>

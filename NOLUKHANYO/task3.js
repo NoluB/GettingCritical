@@ -1,15 +1,13 @@
-var greenBox = document.getElementById('box1');
-var greenButton = document.getElementById('green');
+var myBox1 = document.getElementById('box1');
+var myBox2 = document.getElementById('box2');
+var Button = document.getElementById('button');
 
-redButton.addEventListener('click', function(){
-redBox.style.backgroundColor = 'green'
+Button.addEventListener('click', function(){
+myBox1.style.backgroundColor = 'green'
 
 })
 
-var redBox = document.getElementById('box2');
-var redButton = document.getElementById('red')
-
-redButton.addEventListener('click', function(){
-redBox.style.backgroundColor = 'red'
+Button.addEventListener('click', function(){
+myBox2.style.backgroundColor = 'red'
 
 })
